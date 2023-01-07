@@ -3,4 +3,4 @@ project(GuiXuFusionSim)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(GuiXuFusionSim main.cpp)
+add_subdirectory(src)
